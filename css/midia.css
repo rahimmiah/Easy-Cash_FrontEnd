@@ -1,0 +1,583 @@
+@media (max-width: 376px){
+
+    h3{
+        font-size: 24px !important;
+        margin-bottom: 2px !important;
+    }
+    h4{
+        font-size: 21px !important;
+    }
+
+    header .navbar .navbar-brand {
+        padding-left: 0px !important;
+        font-size: 23px;
+    }
+    header .navbar .navbar-brand i {
+        font-size: 26px;
+    }
+    .fa-solid, .fas {
+        padding-top: 5px;
+    }
+    #banner .carousel-caption .btn {
+        margin-left: 0px !important;
+        height: 32px;
+        width: 108px !important;
+        border-radius: 1px !important;
+        font-size: 12px !important;
+    }
+    #banner .carousel-caption {
+        padding: 0px 0px;
+    }
+    .carousel-indicators {
+        bottom: -12px !important;
+    }
+    #banner .carousel-caption p{
+        line-height: 12px !important;
+        margin-top: 0;
+        margin-bottom: 8px !important;
+        font-size: 13px !important;
+        padding-bottom: 3px !important;
+    }
+    #banner .carousel-caption h1{
+        font-size: 16px !important;
+        padding-bottom: 0px !important;
+    }
+    #middil-1 .text-box{
+        width: 100% !important;
+    }
+    #middil-1 {
+        padding: 20px 0px;
+    }
+
+
+    #middil-2{
+        padding: 17px 0px;
+    }
+
+    #middil-3{
+        height: auto !important;
+        /* margin-top: 20px; */
+    }
+    #middil-3 .leyar{
+        padding: 20px 0px;
+    }
+    #middil-3 .t-box {
+        width: 90%;
+        top: 19px;
+        left: 19px;
+    }
+    #middil-3 .t-box iframe {
+        margin-left: -15px !important;
+        width: 90% !important;
+        height: 200px !important;
+    }
+
+
+    #middil-4 {
+        padding: 17px 0px;
+    }
+
+
+
+    #middil-5 .text-box {
+        width: 90% !important;
+    }
+
+
+
+    #middil-6{
+        height: auto;
+    }
+
+
+    #middil-6 .text-b {
+        width: 90%;
+        padding-top: 35px;
+    }
+
+
+
+    #middil-6 .leyar .text-b .btn {
+        height: 46px;
+        width: 166px !important;
+        margin-bottom: 35px;
+        margin-top: 20px;
+    }    
+
+
+}
+
+
+
+@media(min-width: 376px) and (max-width:576px){
+    h6{
+        font-size: 26px !important;
+    }
+    
+    h3{
+        font-size: 32px !important;         
+    }
+
+    header .navbar .navbar-brand {
+        padding-left: 0px !important;
+        font-size: 33px;
+    }
+    header .navbar .navbar-brand i {
+        font-size: 40px;
+    }
+    .fa-solid, .fas {
+        font-size: 30px !important;
+    }
+    #banner .carousel-caption .btn {
+        margin-left: 0px !important;
+        height: 37px;
+        width: 134px !important;
+        border-radius: 1px !important;
+        font-size: 15px !important;
+    }
+    #banner .carousel-caption {
+        padding: 10px 0px;
+    }
+    .carousel-indicators {
+        bottom: -5px !important;
+    }
+    #banner .carousel-caption p{
+        line-height: 18px !important;
+        margin-top: 0;
+        margin-bottom: 8px !important;
+        font-size: 17px !important;
+        padding-bottom: 3px !important;
+    }
+    #banner .carousel-caption h1{
+        font-size: 29px !important;
+        padding-bottom: 0px !important;
+    }
+    #middil-1 .text-box{
+        width: 100% !important;
+    }
+    #middil-3{
+        height: auto !important;
+        /* margin-top: 20px; */
+    }
+    #middil-3 .leyar{
+        padding: 20px 0px;
+    }
+    #middil-3 .t-box {
+        width: 90%;
+        top: 19px;
+        left: 19px;
+    }
+    #middil-3 .t-box p{
+        font-size: 17px;
+    }
+    #middil-3 .t-box iframe {
+        margin-left: -15px !important;
+    }
+
+
+    #middil-4 {
+        padding: 17px 0px;
+    }
+    #middil-5 .text-box {
+        width: 90% !important;
+    }
+    #middil-6{
+        height: auto;
+    }
+    #middil-6 .text-b {
+        width: 90%;
+        padding-top: 62px;
+    }
+    #middil-6 .leyar .text-b .btn {
+        width: 248px !important;
+        height: 74px;
+        font-size: 20px !important;
+    }
+
+
+}
+
+
+
+
+@media(min-width: 576px) and (max-width:786px){
+     h6{
+        font-size: 26px !important;
+    }
+    h3{
+        font-size: 32px !important;         
+    }
+
+    header .navbar .navbar-brand {
+        padding-left: 0px !important;
+        font-size: 33px;
+    }
+    header .navbar .navbar-brand i {
+        font-size: 40px;
+    }
+    .fa-solid, .fas {
+        font-size: 30px !important;
+    }
+    #banner .carousel-caption .btn {
+        margin-left: 0px !important;
+        height: 37px;
+        width: 134px !important;
+        border-radius: 1px !important;
+        font-size: 15px !important;
+    }
+    #banner .carousel-caption {
+        padding: 10px 0px;
+    }
+    .carousel-indicators {
+        bottom: -5px !important;
+    }
+    #banner .carousel-caption p{
+        line-height: 18px !important;
+        margin-top: 0;
+        margin-bottom: 8px !important;
+        font-size: 17px !important;
+        padding-bottom: 3px !important;
+    }
+    #banner .carousel-caption h1{
+        font-size: 29px !important;
+        padding-bottom: 0px !important;
+    }
+    #middil-1 .text-box{
+        width: 100% !important;
+    }
+    #middil-3{
+        height: auto !important;
+        /* margin-top: 20px; */
+    }
+    #middil-3 .leyar{
+        padding: 20px 0px;
+    }
+    #middil-3 .t-box {
+        width: 90%;
+        top: 19px;
+        left: 19px;
+    }
+    #middil-3 .t-box p{
+        font-size: 17px;
+    }
+    #middil-3 .t-box iframe {
+        margin-left: -15px !important;
+    }
+
+
+    #middil-4 {
+        padding: 17px 0px;
+    }
+    #middil-5 .text-box {
+        width: 90% !important;
+    }
+    #middil-6{
+        height: auto;
+    }
+    #middil-6 .text-b {
+        width: 90%;
+        padding-top: 62px;
+    }
+    #middil-6 .leyar .text-b .btn {
+        width: 248px !important;
+        height: 74px;
+        font-size: 20px !important;
+    }
+
+
+    
+}
+
+
+
+@media(min-width: 768px) and (max-width:992px){
+    header .navbar .navbar-brand {
+        padding-left: 0px !important;
+        font-size: 33px;
+    }
+    header .navbar .navbar-brand i {
+        font-size: 40px;
+    }
+    .fa-solid, .fas {
+        font-size: 30px !important;
+    }
+
+    #banner .carousel-caption {
+        padding: 10px 100px;
+    }
+    .carousel-indicators{
+        bottom: -1px !important;
+    }
+    #banner .carousel-caption h1{
+        font-size: 35px !important;
+    }
+    #middil-1 .text-box{
+        width: 100% !important;
+    }
+
+
+    #middil-3{
+        height: auto !important;
+        /* margin-top: 20px; */
+    }
+    #middil-3 .leyar{
+        padding: 20px 0px;
+    }
+    #middil-3 .t-box {
+        width: 90%;
+        top: 19px;
+        left: 19px;
+    }
+    #middil-3 .t-box p{
+        font-size: 17px;
+    }
+    #middil-3 .t-box iframe{
+        margin-left: 0px !important;
+    }
+    #middil-5 .text-box {
+        width: 100% !important;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+     /* start about midea css  */
+
+
+
+
+
+
+
+     @media (max-width: 376px){
+        #bannar-1{
+            height: 54px ;
+        } 
+        #bannar-1 .leyar{
+            padding-top: 13px;
+        }
+    
+    
+    
+    
+    
+        #middil-8 .text-box {
+            width: 100% !important;
+        }
+    
+    
+        #middil-9 {
+            width: 100%;
+            padding: 10px 0px;
+        }
+        #middil-9 .img{
+            padding: 20px 0px;
+        }
+        #img-middil{
+            height: auto;
+        }
+        #img-middil .leyar {
+            padding: 20px 0px;
+        }
+        #img-middil .leyar h4{
+            font-size: 26px !important;
+            padding-bottom: 5px !important;
+        }
+        #img-middil .leyar h6{
+            font-size: 18px !important;
+        }
+    
+        #middil-10 .text-box {
+            width: 100% !important;
+        }
+    
+    
+    }
+    
+    
+    
+    @media(min-width: 376px) and (max-width:576px){
+        #bannar-1{
+            height: 54px ;
+        } 
+        #bannar-1 .leyar{
+            padding-top: 13px;
+        }
+    
+    
+    
+    
+        #middil-8 .text-box {
+            width: 100% !important;
+        }
+    
+        #middil-9 {
+            padding: 20px 0px;
+        }
+        #middil-9 .img{
+            padding: 20px 0px;
+        }
+        
+    
+        #img-middil{
+            height: auto;
+        }
+        #img-middil .leyar {
+            padding: 20px 0px;
+        }
+        #img-middil .leyar h4{
+            font-size: 26px !important;
+            padding-bottom: 5px !important;
+        }
+        #img-middil .leyar h6{
+            font-size: 18px !important;
+        }
+        #middil-10 .text-box {
+            width: 100% !important;
+        }
+    
+    
+    }
+    
+    
+    
+    @media(min-width: 576px) and (max-width:786px){
+        #bannar-1{
+            height: 73px ;
+        } 
+        #bannar-1 .leyar{
+            padding-top: 21px;
+        }
+        #bannar-1 .leyar a {
+            font-size: 22px !important;
+        }
+        #bannar-1 .leyar span {
+            font-size: 22px !important;
+        }
+    
+    
+        #middil-8 .text-box {
+            width: 100% !important;
+        }
+    
+        #middil-9 {
+            padding: 20px 0px;
+        }
+        #middil-9 .img{
+            padding: 20px 0px;
+        }
+        
+    
+        #img-middil{
+            height: auto;
+        }
+        #img-middil .leyar {
+            padding: 10px 0px;
+        }
+        #img-middil .leyar h4{
+            font-size: 26px !important;
+            padding-bottom: 5px !important;
+        }
+        #img-middil .leyar h6{
+            font-size: 18px !important;
+        }
+        #middil-10 .text-box {
+            width: 100% !important;
+        }
+    
+    
+    }
+    
+    
+    
+    @media(min-width: 768px) and (max-width:992px){
+        #bannar-1{
+            height: 73px ;
+        } 
+        #bannar-1 .leyar{
+            padding-top: 21px;
+        }
+        #bannar-1 .leyar a {
+            font-size: 22px !important;
+        }
+        #bannar-1 .leyar span {
+            font-size: 22px !important;
+        }
+    
+    
+        #middil-8 .text-box {
+            width: 100% !important;
+        }
+    
+        #middil-9 {
+            width: 100%;
+            padding: 20px 0px;
+        }
+        
+    
+        #img-middil{
+            height: auto;
+        }
+        #img-middil .leyar {
+            padding: 10px 0px;
+        }
+        #img-middil .leyar h4{
+            font-size: 37px !important;
+            padding-bottom: 5px !important;
+        }
+        #img-middil .leyar h6{
+            font-size: 24px !important;
+        }
+        #middil-10 .text-box {
+            width: 100% !important;
+        }
+    
+    
+    
+    }
+
+
+
+
+
+
+
+
+    /* start contact midea css  */
+
+
+
+
+
+    @media (max-width: 376px){
+        #middil-11 .text-box {
+            width: 100% !important;
+        }   
+        #middil-11 .gap{
+            text-align: center;
+        }    
+    }
+    @media(min-width: 376px) and (max-width:576px){
+        #middil-11 .text-box {
+            width: 100% !important;
+        } 
+    }
+    @media(min-width: 576px) and (max-width:786px){
+        #middil-11 .text-box {
+            width: 100% !important;
+        } 
+    }
+    @media(min-width: 768px) and (max-width:992px){
+        #middil-11 .text-box {
+            width: 100% !important;
+        } 
+    }
